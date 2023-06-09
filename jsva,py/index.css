@@ -1,0 +1,100 @@
+*{
+	font-family: monospace;
+	padding: 10px ;
+  }
+.af{
+background-color: rgb(255, 255, 159);
+padding: 5px 10px;
+
+}
+.af{
+	font-size: 18px;
+	text-align: center;
+	font-family: monospace;
+}
+.af:hover{
+	background-color: black;
+	color: yellow;
+}
+p{
+	
+	font-size: 25px;
+	text-align: center;
+	font-family: sans-serif;
+}
+div a{
+
+	justify-items: center;
+}
+.pai{
+	color:white;
+	text-align: left;
+	font-family: monospace;
+	padding: 2px 2px;
+	max-width: auto	;
+	min-height: auto;
+}
+
+.tx{
+ font: monospace 150%;
+font-size: 20px;
+text-align: left;
+}
+.img1{
+padding: 60px 150px;
+
+}
+.pai{
+	display: inline-block;
+      transition: color 0.5s ease-in-out;
+	  background-color: rgb(0, 174, 255);
+	  opacity: 80%;
+	  border-radius: 7px;
+	
+}
+
+p{
+	text-align: left;
+}
+.title{
+	text-align: center;
+}
+.title:hover{
+	
+	color: rgb(5, 142, 255);
+	
+}
+.menu a{ 
+	background-color: rgb(59, 177, 255);
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	justify-content: space-between;	
+	padding: 8px 20px;
+	margin: 50px;
+border-radius: 10px;
+	
+}
+.menu{
+
+	font-size: 16px;
+	text-align: center;
+}
+.title2{
+font-family: sans-serif;
+font-size: 20px;
+
+}
+
+.pai{
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 1px;
+    transition: background-size 0.7s;
+}
+.pai:hover, .pai:focus {
+    background-size: 100% 2px;
+}.pai:hover{
+	color: black;
+}
